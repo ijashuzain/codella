@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651164723749",
+    "project_id": "my-codella",
+    "storage_bucket": "my-codella.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651164723749:android:40294c1fe52d5d4e5cedcc",
+        "android_client_info": {
+          "package_name": "com.example.codella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651164723749-j2ikqoengkb5e7phj0ubflra90dm1g7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3g3eWl8wOswZbSvNOObaECukX4FnWs1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651164723749-j2ikqoengkb5e7phj0ubflra90dm1g7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
